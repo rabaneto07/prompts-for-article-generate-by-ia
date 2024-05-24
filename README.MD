@@ -59,7 +59,7 @@ Lexica.art：
 <p>
    
     <p>&nbsp&nbsp&nbspVcnt Cardoso<br>
-    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp;
     <a href="https://github.com/rabaneto07">
     GitHub</a>&nbsp;|&nbsp;
     <a href"www.linkedin.com/in/vicente-cardoso-32a340257">
