@@ -36,13 +36,13 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em ChatGPt listando as principais questões e os desafios da ética da inteligência Artificial com exemplos {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto ChatGPT                                                                                                                                                                                                      |
+| conteúdo | escreva como se você fosse um escritor de artigos tech com foco em Inteligencia Artificial, Quero um texto com foco em ChatGPt listando as principais questões e os desafios da ética da inteligência Artificial com exemplos {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a extração do conteúdo foram:
 
 • Inteligência Artificial
 
@@ -52,15 +52,8 @@ Lexica.art：
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
-
-## 📚 Materiais
-
-- prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
+- Banner e Estilização Feitas no GoogleSlides
+- Extração e formatação 100% humanas(eu acho)
 
 
 <p>
