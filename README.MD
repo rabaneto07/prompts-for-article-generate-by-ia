@@ -56,20 +56,12 @@ Lexica.art：
 - Extração e formatação 100% humanas(eu acho)
 
 
+<p>Vcnt Cardoso</p>
 <p>
-   
-    <p>&nbsp&nbsp&nbspVcnt Cardoso<br>
-    &nbsp&nbsp&nbsp;
-    <a href="https://github.com/rabaneto07">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/vicente-cardoso-32a340257">
-LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/vcntc_/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://github.com/rabaneto07">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/vicente-cardoso-32a340257">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/vcntc_/">Instagram</a>
 </p>
-<br/><br/>
-<p>
 
 ---
 
