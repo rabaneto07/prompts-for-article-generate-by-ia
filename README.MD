@@ -62,7 +62,7 @@ Lexica.art：
     &nbsp&nbsp&nbsp;
     <a href="https://github.com/rabaneto07">
     GitHub</a>&nbsp;|&nbsp;
-    <a href"www.linkedin.com/in/vicente-cardoso-32a340257">
+    <a href="www.linkedin.com/in/vicente-cardoso-32a340257">
 LinkedIn</a>&nbsp;|&nbsp;
     <a href="https://www.instagram.com/vcntc_/">
     Instagram</a>
